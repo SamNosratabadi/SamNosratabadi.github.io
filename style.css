@@ -44,6 +44,7 @@ footer {
   margin-top: auto;
   display: flex;
   flex-direction: row;
+  width: 100%;
 }
 
 .references {
@@ -53,8 +54,10 @@ footer {
   padding-top: 10px;
   gap: 10px;
   justify-content: center;
-  align-content: center;
+  align-items: center;
   color: white;
+  position: absolute;
+  width: 100%;
 }
 
 .github {
