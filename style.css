@@ -49,16 +49,19 @@ footer {
 .references {
   display: flex;
   flex-direction: column;
-  background-color: red;
   font-size: 30px;
   padding-top: 10px;
   gap: 10px;
+  justify-content: center;
+  align-content: center;
+  color: white;
 }
 
 .github {
-  display: flex;
+  background-color: green;
 }
 
 .linkedin {
-  display: flex;
+  flex: 1;
+  background-color: yellow;
 }
