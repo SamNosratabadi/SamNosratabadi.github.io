@@ -56,15 +56,6 @@ footer {
   justify-content: center;
   align-items: center;
   color: white;
-  position: absolute;
-  width: 100%;
-}
-
-.github {
+  width: 83%;
   background-color: green;
-}
-
-.linkedin {
-  flex: 1;
-  background-color: yellow;
 }
